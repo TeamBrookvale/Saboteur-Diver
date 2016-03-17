@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4e0a197f1a5042dc8fb2cd6ad519b70, type: 3}
+  m_Name: SoomlaEditorScript
+  m_EditorClassIdentifier: 
+  SoomlaSettings:
+    values:
+    - name: SoomlaSecret
+      value: 
+    - name: HighwayGameKey
+      value: '[YOUR GAME KEY]'
+    - name: HighwayEnvKey
+      value: '[YOUR ENV KEY]'
+    - name: TwitterConsumerKey
+      value: YOUR TWITTER CONSUMER KEY
+    - name: TwitterConsumerSecret
+      value: YOUR TWITTER CONSUMER SECRET
+    - name: GPClientId
+      value: YOUR GOOGLE+ CLIENT ID
+    - name: DebugUnityMessages
+      value: False
+    - name: GPlayBP
+      value: True
+    - name: AndroidPublicKey
+      value: 
+    - name: IosSSV
+      value: False

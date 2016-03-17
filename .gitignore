@@ -1,0 +1,24 @@
+# Team Brookvale
+.DS_Store
+*.exe
+*.apk
+/[Bb]uild*
+/*[Dd]ata
+/iOS
+*.pdb
+LevelEditorExport.xml*
+XmlItemsToExport.xml*
+
+# NOTE: this will cause your collaborators to re-import assets periodically
+/Temp
+/Library
+*.csproj
+*.unityproj
+*.sln
+ 
+ 
+# ignoring pidb, they are just code completion caching data according to:
+# http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files
+*.pidb
+*.userprefs
+

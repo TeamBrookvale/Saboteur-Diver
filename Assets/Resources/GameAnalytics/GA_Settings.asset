@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d0c0342116464e26abb476a494c827a, type: 3}
+  m_Name: GA_Settings
+  m_EditorClassIdentifier: 
+  TotalMessagesSubmitted: 18
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 11
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 7
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea: 
+  GameKey: 
+  SecretKey: 
+  Build: 1.0
+  SignUpOpen: 0
+  FirstName: 
+  LastName: 
+  StudioName: Team Brookvale
+  GameName: Saboteur Diver
+  PasswordConfirm: 
+  EmailOptIn: 1
+  EmailGA: 
+  IntroScreen: 0
+  DebugMode: 0
+  DebugAddEvent: 0
+  SendExampleGameDataToMyGame: 0
+  RunInEditorPlayMode: 0
+  UseBundleVersion: 0
+  AllowRoaming: 1
+  ArchiveData: 1
+  NewSessionOnResume: 1
+  AutoSubmitUserInfo: 1
+  DelayQuitToSendData: 1
+  CustomUserID: 0
+  SubmitInterval: 10
+  InternetConnectivity: 1
+  Start_AlwaysShowAds: 0
+  Start_TimePlayed: 0
+  Start_Sessions: 0
+  TimePlayed: 300
+  Sessions: 1
+  Trigger_AdsEnabled: 0
+  Trigger_AdsEnabled_network: 0
+  Trigger_SceneChange: 0
+  Trigger_SceneChange_network: 0
+  IAD_foldout: 1
+  IAD_enabled: 0
+  CB_enabled: 0
+  IAD_type: 0
+  IAD_layout: 0
+  IAD_position: {x: 0, y: 0}
+  IAD_Duration: 10
+  CB_foldout: 1
+  CurrentInspectorState: 4
+  ClosedHints: 
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 98df8f9c5678a4e5d964caa1244e8958, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: 810bbb19deed24f3cb7b854f9bafde26, type: 3}
+  CustomAdTriggers: []

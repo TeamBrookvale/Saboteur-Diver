@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DiverLeftUp
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 4a599e2e7e4bc4d81adf79a4592fc8e8, type: 3}
+    - time: .25
+      value: {fileID: 21300000, guid: 8c5152fecf41d4fcfb40fd069a0d0ea5, type: 3}
+    - time: .5
+      value: {fileID: 21300000, guid: bc28936c90a9342c0b9f8c888f08e606, type: 3}
+    - time: .75
+      value: {fileID: 21300000, guid: 76ba4a10f68e34f209a1f5d72c2b9f95, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 9bcd23b1d8cdc49e6a771cc38503e9d3, type: 3}
+    - time: 1.25
+      value: {fileID: 21300000, guid: 321d2636a8b8f46238d86b0a158cdfc6, type: 3}
+    - time: 1.5
+      value: {fileID: 21300000, guid: cbf355f7c8da34de4996addb60da2662, type: 3}
+    - time: 1.75
+      value: {fileID: 21300000, guid: 4296e20da5ccb4981b26b7fe4dab98a8, type: 3}
+    - time: 2
+      value: {fileID: 21300000, guid: 4a599e2e7e4bc4d81adf79a4592fc8e8, type: 3}
+    - time: 2.25
+      value: {fileID: 21300000, guid: 4296e20da5ccb4981b26b7fe4dab98a8, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 4
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2.5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []
